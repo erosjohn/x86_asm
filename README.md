@@ -4,6 +4,8 @@ These codes are all about my learning in Software RE.
 - HelloWorld 
 - strlen(using x86-asm)
 - strchr(There are some redundant instructions.)
+- strcmp
+- strset 
 
 ---
 
